@@ -1,0 +1,2 @@
+# ffmpegNotes
+notes about ffmpeg
